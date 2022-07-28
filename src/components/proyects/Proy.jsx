@@ -14,7 +14,7 @@ export const Proy = () => {
             <span>{pr.heading}</span>
             <span>{pr.details}</span>
             <div className="explore">
-              <span>Eplore on GitHub</span>
+              <span>Eplorar en GitHub</span>
               <a href={pr.route}> <img className="arrow"src={rightArrow} alt=""/></a>
             </div>
           </div>
