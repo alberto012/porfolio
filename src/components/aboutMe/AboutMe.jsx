@@ -12,7 +12,7 @@ export const AboutMe = () => {
   return (
     <div className="about-me" id="me">
       <div className="left">
-        <span>Sobre mi</span>
+        <span >MAS INFO</span>
         <motion.span
          key={select}
          initial={{opactiy: 0, x:100}}
