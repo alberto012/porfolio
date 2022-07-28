@@ -42,7 +42,7 @@ const Home = () => {
           <span>React/native, Redux/toolkite, Boostrap, Tailwind Css</span>
         </div>
         <div>
-          <span>Lenguage</span>
+          <span>Lenguajes</span>
           <span>JavaScript, TypeScript</span>
         </div>
         
