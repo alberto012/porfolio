@@ -40,19 +40,19 @@ export const Header = () => {
           span={true}
           smooth={true}
           onClick={()=>setMenuOpen(false)}
-          >About Me</Link></li>
+          >Sobre Mi</Link></li>
           <li onClick={()=>setMenuOpen(false)}>  <Link
           to= "proyects"
           span={true}
           smooth={true}
           onClick={()=>setMenuOpen(false)}
-          >Proyects</Link></li>
+          >Proyectos</Link></li>
           <li onClick={()=>setMenuOpen(false)}> <Link
           to= "footer"
           span={true}
           smooth={true}
           onClick={()=>setMenuOpen(false)}
-          > Contact</Link></li>
+          > Contacto</Link></li>
         </ul>
       )}
     </div>

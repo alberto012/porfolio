@@ -6,7 +6,7 @@ export const testimonialsData = [
   {
     image: images1,
     review:
-      "Hola!, soy programador y es algo que me apasiona desde que lo descubrí. Soy argentino y me gusta viajar, tomar mate y pasear con mi mascota",
+  "Hola!, soy programador y es algo que me apasiona desde que lo descubrí. Soy argentino y me gusta viajar, tomar mate y pasear con mi mascota",
     name: 'Alberto Zalazar',
     status : 'FullStack Dev'
   },

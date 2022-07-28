@@ -6,7 +6,7 @@ export const Proy = () => {
   return (
     <div className="proyects" id="proy">
       <div className="header">
-        <span className= "stroke-text">MY PROYECTS</span>
+        <span className= "stroke-text">Mis Proyectos</span>
       </div>
       <div className="proyect-view">
         {proyectsData.map((pr) => (

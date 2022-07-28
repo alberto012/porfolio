@@ -18,7 +18,7 @@ const Home = () => {
           initial= {{left:mobile?"110px":"170px"}}
           whileInView={{left:"8px"}}
           transition={{...transition, type:"tween"}}></motion.div>
-          <span>Welcome To my Portfolio</span>
+          <span>Bienvendo/a a mi Portfolio</span>
         </div>
         <div className="text-name">
           <div>
