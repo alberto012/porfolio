@@ -3,7 +3,7 @@ import { Header } from "../Header/Header";
 import "./Home.css";
 import foto from"../../assets/foto.png"
 import {motion} from"framer-motion"
-import pdf  from "../../assets/CV.pdf"
+import pdf  from "../../assets/CVs.pdf"
 const Home = () => {
   const transition = {type:"spring", duration:3}
   const mobile= window.innerWidth<=768?true:false;
